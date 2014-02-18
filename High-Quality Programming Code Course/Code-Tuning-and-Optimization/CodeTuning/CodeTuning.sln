@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2 ComparePrimitiveTypes", "ComparePrimitiveTypes\2 ComparePrimitiveTypes.csproj", "{985619BD-2055-481F-830A-30ED2A76114A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3 CompareMathMethods", "3 CompareMathMethods\3 CompareMathMethods.csproj", "{5A9327E0-FD86-44F4-BD59-E210DD50420E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompareSortAlgorithms", "CompareSortAlgorithms\CompareSortAlgorithms.csproj", "{8136B411-F8D3-46AA-BABA-5F37B42DD13F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{985619BD-2055-481F-830A-30ED2A76114A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{985619BD-2055-481F-830A-30ED2A76114A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{985619BD-2055-481F-830A-30ED2A76114A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{985619BD-2055-481F-830A-30ED2A76114A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A9327E0-FD86-44F4-BD59-E210DD50420E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A9327E0-FD86-44F4-BD59-E210DD50420E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A9327E0-FD86-44F4-BD59-E210DD50420E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A9327E0-FD86-44F4-BD59-E210DD50420E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8136B411-F8D3-46AA-BABA-5F37B42DD13F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8136B411-F8D3-46AA-BABA-5F37B42DD13F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8136B411-F8D3-46AA-BABA-5F37B42DD13F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8136B411-F8D3-46AA-BABA-5F37B42DD13F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
