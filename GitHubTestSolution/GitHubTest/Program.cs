@@ -10,7 +10,6 @@ namespace GitHubTest
     {
         static void Main(string[] args)
         {
-
             Console.WriteLine("GitHub");
         }
     }
