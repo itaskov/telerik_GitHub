@@ -1,6 +1,0 @@
-D:\telerik\telerik\High-Quality Programming Code Course\Development Tools\Development-Tools\Development-Tools\bin\Debug\Development-Tools.exe.config
-D:\telerik\telerik\High-Quality Programming Code Course\Development Tools\Development-Tools\Development-Tools\bin\Debug\Development-Tools.exe
-D:\telerik\telerik\High-Quality Programming Code Course\Development Tools\Development-Tools\Development-Tools\bin\Debug\Development-Tools.pdb
-D:\telerik\telerik\High-Quality Programming Code Course\Development Tools\Development-Tools\Development-Tools\obj\Debug\T4Example.csprojResolveAssemblyReference.cache
-D:\telerik\telerik\High-Quality Programming Code Course\Development Tools\Development-Tools\Development-Tools\obj\Debug\Development-Tools.exe
-D:\telerik\telerik\High-Quality Programming Code Course\Development Tools\Development-Tools\Development-Tools\obj\Debug\Development-Tools.pdb
